@@ -11,4 +11,6 @@ wireless routers</br>
 3G/4G cell tower connectivity</br>
 internet access with modem throught phoneline</br>
 multi router connection through serial</br>
+public and private ip addresses</br>
+different class of ips used
 
