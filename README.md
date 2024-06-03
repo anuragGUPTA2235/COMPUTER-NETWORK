@@ -10,4 +10,5 @@ wireless access point
 wireless routers
 3G/4G cell tower connectivity
 internet access with modem throught phoneline
+multi router connection through serial
 
