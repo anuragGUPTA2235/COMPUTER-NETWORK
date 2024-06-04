@@ -21,7 +21,6 @@ different class of ips used
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/32a0c200-6f45-4e4c-9472-58705a607b98)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/3a441944-955c-4937-be1a-d589f76a3e2e)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/4c92ee49-fbee-40ea-9553-26033bb26986)
-![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/4c92ee49-fbee-40ea-9553-26033bb26986)
 
 
 
