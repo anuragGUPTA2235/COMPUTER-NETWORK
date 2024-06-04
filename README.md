@@ -13,4 +13,8 @@ internet access with modem throught phoneline</br>
 multi router connection through serial</br>
 public and private ip addresses</br>
 different class of ips used
+<BR/>
+
+![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fe620d18-e531-4059-84f7-e58022e90d13)
+
 
