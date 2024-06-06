@@ -43,14 +43,30 @@ write memory
 en
 conf t
 interface gigabitethernet0/0/0
-ip address 10.0.0.1 255.255.255.0
+ip address 13.0.0.2 255.255.255.0
 interface gigabitethernet0/0/1
-ip address 13.0.0.1 255.255.255.0
+ip address 15.0.0.1 255.255.255.0
 exit
 exit
 write memory
 /// router1
+en
+conf t
+router ospf 1
+network 10.0.0.0 0.0.0.255 area 0
+network 13.0.0.0 0.0.0.255 area 0
+exit
+exit
+write memory
 /// router2
+en
+conf t
+router ospf 1
+network 13.0.0.0 0.0.0.255 area 0
+network 15.0.0.0 0.0.0.255 area 0
+exit
+exit
+write memory
 ```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/dd35082e-ca4d-4206-94a2-35a2efecfe82)
 ![ospf2](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/b6b34ac6-9f8d-44e9-b5a2-0e9fcbabf668)
@@ -72,7 +88,7 @@ write memory
 en
 conf t
 interface gigabitethernet0/0/0
-ip address 13.0.0.1 255.255.255.0
+ip address 13.0.0.2 255.255.255.0
 interface gigabitethernet0/0/1
 ip address 15.0.0.1 255.255.255.0
 exit
