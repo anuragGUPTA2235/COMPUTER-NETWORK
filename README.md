@@ -28,6 +28,8 @@ different class of ips used
 ## Interior Gateway Protocols:
 ### Open Shortest Path Protocol
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/168d3fff-c44a-405d-9ebb-1f8bb6220611)
+```bash
+```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/dd35082e-ca4d-4206-94a2-35a2efecfe82)
 ![ospf2](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/b6b34ac6-9f8d-44e9-b5a2-0e9fcbabf668)
 ![ospf3](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fb6d6da8-c2a6-48c2-94a4-97764b27b78a)
@@ -72,6 +74,7 @@ network 15.0.0.0
 exit
 exit
 write memory
+```
 
 
 
