@@ -25,6 +25,8 @@ different class of ips used
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/f78959b2-11ca-467f-8449-f04c55cd9b51)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/411a4aa4-3edf-4bf4-8a68-ae9ae7a22d53)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/d13a778a-8552-4cda-888a-f21312b040bb)
+## Interior Gateway Protocols:
+### Open Shortest Path Protocol
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/168d3fff-c44a-405d-9ebb-1f8bb6220611)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/dd35082e-ca4d-4206-94a2-35a2efecfe82)
 ![ospf2](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/b6b34ac6-9f8d-44e9-b5a2-0e9fcbabf668)
