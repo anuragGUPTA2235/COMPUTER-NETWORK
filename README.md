@@ -33,7 +33,8 @@ different class of ips used
 ![ospf3](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fb6d6da8-c2a6-48c2-94a4-97764b27b78a)
 ### Routing Information Protocol
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/381c2de0-b9b6-4dab-a9e9-cf3fe671ce15)
-
+```bash
+jsacsdn
 
 
 
