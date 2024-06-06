@@ -69,8 +69,27 @@ exit
 write memory
 ```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/dd35082e-ca4d-4206-94a2-35a2efecfe82)
+```bash
+\\\ neighbour table
+en
+conf t
+show ip ospf neighbor
+```
 ![ospf2](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/b6b34ac6-9f8d-44e9-b5a2-0e9fcbabf668)
+```bash
+\\\ topology table link state database
+\\\ every entry is link state advertisement
+en
+conf t
+show ip ospf database
+```
 ![ospf3](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fb6d6da8-c2a6-48c2-94a4-97764b27b78a)
+```bash
+\\\ routing table
+en
+conf t
+show ip route
+```
 ### Routing Information Protocol
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/381c2de0-b9b6-4dab-a9e9-cf3fe671ce15)
 ```bash
