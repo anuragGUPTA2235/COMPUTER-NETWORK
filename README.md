@@ -34,7 +34,16 @@ different class of ips used
 ### Routing Information Protocol
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/381c2de0-b9b6-4dab-a9e9-cf3fe671ce15)
 ```bash
-jsacsdn
+en
+conf t
+interface gigabitethernet0/0/0
+ip address 10.0.0.1 255.255.255.0
+interface gigabitethernet0/0/1
+ip address 11.0.0.1 255.255.255.0
+exit
+exit
+write memory
+
 
 
 
