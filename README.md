@@ -19,18 +19,36 @@ different class of ips used
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/306c3814-c8d9-481c-bd2a-b514724db48f)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fdbdb8a0-8649-4795-8a8e-f2a07d072f15)
 ```bash
-//switch1
+//ethernet1
 en
 conf t
 interface fastethernet0/1
 ip address 10.0.0.1 255.255.255.0
 switchport mode access
-switchport access allowed vlan 20
+switchport access vlan 20
 exit
 exit
 write memory
-//switch2
-//switch3
+//ethernet2
+en
+conf t
+interface fastethernet0/2
+ip address 10.0.0.2 255.255.255.0
+switchport mode access
+switchport access vlan 30
+exit
+exit
+write memory
+//ethernet3
+en
+conf t
+interface fastethernet0/3
+ip address 10.0.0.3 255.255.255.0
+switchport mode access
+switchport access vlan 40
+exit
+exit
+write memory
 ```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/32a0c200-6f45-4e4c-9472-58705a607b98)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/3a441944-955c-4937-be1a-d589f76a3e2e)
