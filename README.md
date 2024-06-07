@@ -6,7 +6,7 @@ straight : rx to rx | tx to tx
 <br/>
 crossover : rx to tx | tx to rx
 <br/>
-![unnamed](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/16e8f033-f4c8-4668-aaf2-08ba8fbdc514)
+![unnamed](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/16e8f033-f4c8-4668-aaf2-08ba8fbdc514)<br/>
 What Is Crossover Cable?<br/>
 A crossover Ethernet cable is a type of Ethernet cable used to connect computing devices together directly. Unlike straight through cable, the RJ45 crossover cable uses two different wiring standards: one end uses the T568A wiring standard, and the other end uses the T568B wiring standard. The internal wiring of Ethernet crossover cables reverses the transmit and receive signals. It is most often used to connect two devices of the same type: e.g. two computers (via network interface controller) or two switches to each other.<br/>
 What Is Straight Through Cable?<br/>
