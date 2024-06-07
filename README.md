@@ -2,6 +2,7 @@
 ![main-qimg-6c4fd0036c421a15ac41689d098cad1b-lq](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/1439d545-bb9a-494b-b55f-97823a83aaf9)
 ## Ethernet RJ45 Port
 straight : rx to rx | tx to tx
+<br/>
 crossover :rx to tx | tx to rx
 <br/>
 What Is Crossover Cable?<br/>
