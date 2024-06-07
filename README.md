@@ -124,36 +124,51 @@ write memory
 en
 conf t
 interface fastethernet0/1
-ip address 10.0.0.1 255.255.255.0
 switchport mode access
 switchport access vlan 20
 exit
 exit
 write memory
-//// switch 2
 //ethernet2
 en
 conf t
-interface fastethernet0/1
-ip address 11.0.0.2 255.255.255.0
+interface fastethernet0/2
 switchport mode access
 switchport access vlan 30
 exit
 exit
 write memory
-//// switch 3
 //ethernet3
 en
 conf t
-interface fastethernet0/1
-ip address 12.0.0.2 255.255.255.0
+interface fastethernet0/3
 switchport mode access
 switchport access vlan 40
 exit
 exit
 write memory
-// trunk port
-// router on a stick
+// trunk port ethernet 4
+interface fastethernet0/4
+switchport mode trunk
+switchport trunk vlan allowed 20,30,40
+exit
+exit
+write memory 
+// router on a stick -- inter-vlan routing
+en
+conf t
+interface gigabitethernet0/0/0
+ip address 9.0.0.1 255.255.255.0
+interface gigabitethernet0/0/0.20
+ip address 10.0.0.1 255.255.255.0
+interface gigabitethernet0/0/0.30
+ip address 11.0.0.1 255.255.255.0
+interface gigabitethernet0/0/0.40
+ip address 12.0.0.1 255.255.255.0
+give gateway to pc connected in vlan20 as 10.0.0.1
+give gateway to pc connected in vlan30 as 11.0.0.1
+give gateway to pc connected in vlan40 as 12.0.0.1
+now you can ping between the three vlans
 ```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ee4ef788-0a7b-4df8-b73a-71b925634b0f)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/8ea77cfa-d274-486d-817b-2db987962e37)
