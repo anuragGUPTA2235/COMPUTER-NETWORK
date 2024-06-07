@@ -18,6 +18,15 @@ different class of ips used
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fe620d18-e531-4059-84f7-e58022e90d13)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/306c3814-c8d9-481c-bd2a-b514724db48f)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/fdbdb8a0-8649-4795-8a8e-f2a07d072f15)
+```bash
+//switch1
+en
+conf t
+interface fastethernet
+
+//switch2
+//switch3
+```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/32a0c200-6f45-4e4c-9472-58705a607b98)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/3a441944-955c-4937-be1a-d589f76a3e2e)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ee4ef788-0a7b-4df8-b73a-71b925634b0f)
