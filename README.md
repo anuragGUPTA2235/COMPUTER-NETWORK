@@ -51,6 +51,73 @@ exit
 write memory
 ```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/32a0c200-6f45-4e4c-9472-58705a607b98)
+```bash
+//// switch 1
+//ethernet1
+en
+conf t
+interface fastethernet0/1
+ip address 10.0.0.1 255.255.255.0
+switchport mode access
+switchport access vlan 20
+exit
+exit
+write memory
+//ethernet2
+en
+conf t
+interface fastethernet0/2
+ip address 10.0.0.2 255.255.255.0
+switchport mode access
+switchport access vlan 30
+exit
+exit
+write memory
+//ethernet3
+en
+conf t
+interface fastethernet0/3
+ip address 10.0.0.3 255.255.255.0
+switchport mode access
+switchport access vlan 40
+exit
+exit
+write memory
+//// switch 2
+//ethernet1
+en
+conf t
+interface fastethernet0/1
+ip address 11.0.0.1 255.255.255.0
+switchport mode access
+switchport access vlan 40
+exit
+exit
+write memory
+\\\\\ trunk port switch 1
+\\ethernet4
+en
+conf t
+interface fastethernet0/4
+ip address 10.0.0.4 255.255.255.0
+switchport mode trunk
+switchport trunk vlan allowed 20,30,40
+exit
+exit
+write memory
+\\\\\ trunk port switch 2
+\\ethernet2
+en
+conf t
+interface fastethernet0/2
+ip address 11.0.0.2 255.255.255.0
+switchport mode trunk
+switchport trunk vlan allowed 20,30,40
+exit
+exit
+write memory
+\\ethernet2
+```
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/3a441944-955c-4937-be1a-d589f76a3e2e)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ee4ef788-0a7b-4df8-b73a-71b925634b0f)
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/8ea77cfa-d274-486d-817b-2db987962e37)
