@@ -22,8 +22,13 @@ different class of ips used
 //switch1
 en
 conf t
-interface fastethernet
-
+interface fastethernet0/1
+ip address 10.0.0.1 255.255.255.0
+switchport mode access
+switchport access allowed vlan 20
+exit
+exit
+write memory
 //switch2
 //switch3
 ```
