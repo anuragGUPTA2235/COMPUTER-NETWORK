@@ -11,6 +11,8 @@ What Is Crossover Cable?<br/>
 A crossover Ethernet cable is a type of Ethernet cable used to connect computing devices together directly. Unlike straight through cable, the RJ45 crossover cable uses two different wiring standards: one end uses the T568A wiring standard, and the other end uses the T568B wiring standard. The internal wiring of Ethernet crossover cables reverses the transmit and receive signals. It is most often used to connect two devices of the same type: e.g. two computers (via network interface controller) or two switches to each other.<br/>
 What Is Straight Through Cable?<br/>
 A straight through cable is a type of twisted pair cable that is used in local area networks to connect a computer to a network hub such as a router. This type of cable is also sometimes called a patch cable and is an alternative to wireless connections where one or more computers access a router through a wireless signal. On a straight through cable, the wired pins match. Straight through cable use one wiring standard: both ends use T568A wiring standard or both ends use T568B wiring standard. The following figure shows a straight through cable of which both ends are wired as the T568B standard<br/>
+## Optical Fibre<br/>
+![61NywiGpkeL](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/5c8e6463-711e-494f-ab9f-4f0d382f9004)
 ## Astra Defence Factory Networking
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ade9b385-9f9e-4e82-8ac1-0f59dcf872e3)
 ## Features
