@@ -15,6 +15,8 @@ A straight through cable is a type of twisted pair cable that is used in local a
 ![61NywiGpkeL](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/5c8e6463-711e-494f-ab9f-4f0d382f9004)
 ## Console Cable<br/>
 ![61TQ+Kg1qJL _AC_UF1000,1000_QL80_](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/53d57df9-fbbc-46a6-b1b0-ed8b30bcef04)
+## Serial Cable</br>
+![61TQ+Kg1qJL _AC_UF1000,1000_QL80_](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/081e8b53-f84e-43c7-84b9-6f08337d1a64)
 ## Astra Defence Factory Networking
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ade9b385-9f9e-4e82-8ac1-0f59dcf872e3)
 ## Features
