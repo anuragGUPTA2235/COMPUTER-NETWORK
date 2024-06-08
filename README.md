@@ -24,9 +24,9 @@ A straight through cable is a type of twisted pair cable that is used in local a
 ## Coaxial Cable
 ![717A+GRtF4L _AC_UF1000,1000_QL80_](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/cddf7271-5be3-42a6-8439-122d49dfafa6)
 ## enable(en) and configure terminal(conf t) in CISCO devices
-Enable Mode (en or privileged EXEC mode):<br/>
+1. Enable Mode (en or privileged EXEC mode):<br/>
 This mode provides access to all available commands on the device, including those that can change the device's configuration and access sensitive information.<br/>
-Global Configuration Mode (conf t or configure terminal):<br/>
+2. Global Configuration Mode (conf t or configure terminal):<br/>
 This mode allows you to make changes to the device's configuration. It is where you configure various settings that govern the device's behavior, such as interface settings, routing protocols, security parameters, etc.<br/>
 ## Astra Defence Factory Networking
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ade9b385-9f9e-4e82-8ac1-0f59dcf872e3)
