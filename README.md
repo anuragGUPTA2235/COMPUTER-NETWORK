@@ -87,7 +87,7 @@ exit
 exit
 write memory
 ```
-![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/32a0c200-6f45-4e4c-9472-58705a607b98)
+![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/8eca2050-ec4e-40bc-808d-053d9dce4d7a)
 ```bash
 //// switch 1
 //ethernet1
