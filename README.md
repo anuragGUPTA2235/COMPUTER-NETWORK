@@ -20,7 +20,7 @@ A straight through cable is a type of twisted pair cable that is used in local a
 ## Octal Cable
 ![CAB-OCTAL-ASYNC-1-800x800](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/17363713-6cd9-4705-b50c-4a40509eae69)<br/>
 ## Phone Cable
-![CAB-OCTAL-ASYNC-1-800x800](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/0f9977d4-53eb-46a1-88b3-fa8addcc110b)
+![634f80db06ca2644f22ee974-25-39-ft-foot-black-phone](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/4af7f9c4-ffb7-4f75-bc77-70eca392a03c)
 ## Coaxial Cable
 ![717A+GRtF4L _AC_UF1000,1000_QL80_](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/cddf7271-5be3-42a6-8439-122d49dfafa6)
 ## Astra Defence Factory Networking
