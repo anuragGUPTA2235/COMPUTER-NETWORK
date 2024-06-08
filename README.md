@@ -19,6 +19,8 @@ A straight through cable is a type of twisted pair cable that is used in local a
 ![db9-9-pin-serial-rs232-extension-mf-male-to-female-cable](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/0839739a-f35a-484a-8e5e-3623950fd6b7)
 ## Octal Cable
 ![CAB-OCTAL-ASYNC-1-800x800](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/17363713-6cd9-4705-b50c-4a40509eae69)<br/>
+## Phone Cable
+![CAB-OCTAL-ASYNC-1-800x800](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/0f9977d4-53eb-46a1-88b3-fa8addcc110b)
 ## Astra Defence Factory Networking
 ![image](https://github.com/anuragGUPTA2235/COMPUTER-NETWORK/assets/161227082/ade9b385-9f9e-4e82-8ac1-0f59dcf872e3)
 ## Features
